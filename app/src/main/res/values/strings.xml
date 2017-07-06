@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Reserver</string>
+    <string name="label_guest_phone_number">Guest phone number</string>
+    <string name="label_guest_email">Guest email address</string>
+    <string name="label_guests_count">Number of guests</string>
+    <string name="button_date">Set date</string>
+    <string name="button_time">Set time</string>
+    <string name="label_admin_email">Administrator email</string>
+    <string name="button_submit">Submit</string>
+    <string name="toast_missing_number">Please wait for a guest call, it will be automatically acquired</string>
+    <string name="toast_missing_guest_email">Please set the guest email</string>
+    <string name="toast_missing_date">Please set the reservation date</string>
+    <string name="toast_missing_time">Please set the reservation time</string>
+    <string name="toast_missing_admin_email">Please set the admin email</string>
+    <string name="toast_saved_database">Information is saved to the database</string>
+    <string name="toast_no_email_clients">"There are no email clients installed"</string>
+    <string name="mime_type">message/rfc822</string>
+    <string name="email_title">Reservation confirmation</string>
+    <string name="email_body_intro">Dear guest,\n\nyour reservation is confirmed. Reservation information is:\n\n</string>
+    <string name="email_body_phone">Reservation phone number:&#160;</string>
+    <string name="email_body_guest_email">\nReservation email:&#160;</string>
+    <string name="email_body_guests_count">\nNumber of guests:&#160;</string>
+    <string name="email_body_date_time">\nDate and time of the reservation:&#160;</string>
+    <string name="email_body_regards">\n\nBest regards</string>
+</resources>
